@@ -41,3 +41,10 @@ The dataset used in this project is simulated and was prepared for academic purp
 ## Project Type
 
 Academic Group Project — AIS655
+## Dashboard Preview
+
+### Sales Performance Dashboard
+![Sales Dashboard](sales-dashboard.png)
+
+### Customer Analysis Dashboard
+![Customer Dashboard](customer-dashboard.png)
